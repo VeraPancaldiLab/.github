@@ -6,7 +6,7 @@ We study the tumor microenvironment and how its modulates the relationship betwe
 
 Our final goal is to improve these therapies towards the understanding on how variability in the patients, in the tumours, and in their interactions affects their efficacy. We use develop and use different computational approaches which includes the application of multi-omics data (transcriptomics, epigenomics, proteomics and metabolomics), spatial data, mathematical modeling, data simualtions and network theory as useful frameworks to represent systems in which relationships such as interactions or similarity between objects are important. We apply network models to study such diverse systems as networks of patient-patient similarity, networks of interactions between different cell types in a tumour, and 3D interactions of genes in the nucleus.
 
-# Tools
+## Tools
 
 | **tysserand** <br> Fast and accurate spatial networks reconstruction | **GARDEN-NET** <br> Genome ARchitecture DNA Epigenome and Nucleome | **MOSNA** <br> Patterns and communities detection in spatial networks |
 | :---: | :---: | :---: |
