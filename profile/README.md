@@ -1,6 +1,6 @@
 # Welcome to the Pancaldi Lab!
 
-We are [NetB(IO)²](https://www.crct-inserm.fr/netbio2/), a bioinformatics and computational biology research group at the [Cancer Research Center of Toulouse](https://www.crct-inserm.fr/) 
+We are [NetB(IO)²](https://www.crct-inserm.fr/netbio2/), a bioinformatics and computational biology research group at the [Cancer Research Center of Toulouse](https://www.crct-inserm.fr/en/netbio2_en/) 
 
 We study and simulate the tumor microenvironment to understand the relationship between patients and cancer. We focus on how immune cells, especially innate ones, interact with the tumour, hoping to improve personalisation of immunotherapies.
 
