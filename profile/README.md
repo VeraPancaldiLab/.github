@@ -2,9 +2,9 @@
 
 We are [NetB(IO)²](https://www.crct-inserm.fr/netbio2/), a bioinformatics and computational biology research group at the [Cancer Research Center of Toulouse](https://www.crct-inserm.fr/) 
 
-We study the tumor microenvironment and how its modulates the relationship between patients and cancer, focusing on how the immune system and the tumour interact. Our aim is to understand why some immunotherapies only work on some patients and in others either do not work either they become resistant.
+We study the tumor microenvironment and how its modulates the relationship between patients and cancer, focusing on how the immune system and the tumour interact. Our aim is to understand why some immunotherapies only work on some patients and in others do not.
 
-Our final goal is to improve these therapies towards the understanding on how variability in the patients, in the tumours, and in their interactions affects their efficacy. We use develop and use different computational approaches which includes the application of multi-omics data (transcriptomics, epigenomics, proteomics and metabolomics), spatial data, mathematical modeling, data simualtions and network theory as useful frameworks to represent systems in which relationships such as interactions or similarity between objects are important. We apply network models to study such diverse systems as networks of patient-patient similarity, networks of interactions between different cell types in a tumour, and 3D interactions of genes in the nucleus.
+Our final goal is to improve these therapies towards the understanding on how variability in the patients, in the tumours, and in their interactions affects their efficacy. We develop and use different computational approaches which includes the application of multi-omics data (transcriptomics, epigenomics, proteomics and metabolomics), spatial data, mathematical modeling, data simulations and network theory as useful frameworks to represent systems in which relationships such as interactions or similarity between objects are important. We apply network models to study such diverse systems as networks of patient-patient similarity, networks of interactions between different cell types in a tumour, and 3D interactions of genes in the nucleus.
 
 ## Tools
 
