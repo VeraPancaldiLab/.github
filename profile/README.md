@@ -13,6 +13,15 @@ Our final goal is to improve these therapies understanding how variability in th
 | **tysserand** <br> Fast and accurate spatial network reconstruction | **GARDEN-NET** <br> Genome ARchitecture DNA Epigenome and Nucleome Network Exploration Tool | **MOSNA** <br> Patterns and community detection in spatial networks |                          
 | [<img src="https://raw.githubusercontent.com/VeraPancaldiLab/.github/main/profile/python.svg" height="16">](https://github.com/VeraPancaldiLab/tysserand)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/VeraPancaldiLab/.github/main/profile/article.svg" height="16">](https://academic.oup.com/bioinformatics/article/37/21/3989/6313163)|[<img src="https://raw.githubusercontent.com/VeraPancaldiLab/.github/main/profile/python.svg" height="16">](https://github.com/VeraPancaldiLab/GARDEN-NET)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/VeraPancaldiLab/.github/main/profile/article.svg" height="16">](https://academic.oup.com/nar/article/48/8/4066/5809158) |[<img src="https://raw.githubusercontent.com/VeraPancaldiLab/.github/main/profile/python.svg" height="16">](https://github.com/VeraPancaldiLab/mosna_3DMERFISH)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/VeraPancaldiLab/.github/main/profile/article.svg" height="16">](https://pubmed.ncbi.nlm.nih.gov/36993595/) |
 
+## Projects
+
+<a href="https://github.com/VeraPancaldiLab/Agent-Based-Model-of-NLC-in-CLL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=Agent-Based-Model-of-NLC-in-CLL" />
+</a>
+<a href="https://github.com/VeraPancaldiLab/GEMDeCan_deconvolution">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=GEMDeCan_deconvolution" />
+</a>
+
 ## Our recent publications 
 - Messina, O., Raynal, F., Gurgo, J,. Fiche, J.B., Pancaldi, V., Nollmann, M. (2023). 3D chromatin interactions involving Drosophila insulators are infrequent but preferential and arise before TADs and transcription.
 Nat Commun. 21;14(1):6678. https://doi.org/10.1038/s41467-023-42485-y.
