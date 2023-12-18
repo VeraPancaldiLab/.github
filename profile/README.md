@@ -21,6 +21,9 @@ Our final goal is to improve these therapies understanding how variability in th
 <a href="https://github.com/VeraPancaldiLab/GEMDeCan_deconvolution">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=GEMDeCan_deconvolution" />
 </a>
+<a href="https://github.com/VeraPancaldiLab/LungPredict1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=LungPredict1" />
+</a>
 
 ## Our recent publications 
 - Messina, O., Raynal, F., Gurgo, J,. Fiche, J.B., Pancaldi, V., Nollmann, M. (2023). 3D chromatin interactions involving Drosophila insulators are infrequent but preferential and arise before TADs and transcription.
