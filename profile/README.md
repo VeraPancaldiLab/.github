@@ -22,7 +22,7 @@ Our final goal is to improve these therapies understanding how variability in th
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=GEMDeCan_deconvolution" />
 </a>
 <a href="https://github.com/VeraPancaldiLab/LungPredict1_paper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=LungPredict1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=LungPredict1_paper" />
 </a>
 
 ## Our recent publications 
