@@ -15,6 +15,18 @@ Our final goal is to improve these therapies understanding how variability in th
 
 ## Projects
 
+<a href="https://github.com/VeraPancaldiLab/Agent-Based-Model-of-NLC-in-CLL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=Agent-Based-Model-of-NLC-in-CLL" />
+</a>
+<a href="https://github.com/VeraPancaldiLab/GEMDeCan_deconvolution">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=GEMDeCan_deconvolution" />
+</a>
+<a href="https://github.com/VeraPancaldiLab/LungPredict1_paper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=LungPredict1_paper" />
+</a>
+<a href="https://github.com/VeraPancaldiLab/Gene-Ages-Paper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=Gene-Ages-Paper" />
+</a>
 
 
 ## Our recent publications
