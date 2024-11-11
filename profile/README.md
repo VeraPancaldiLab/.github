@@ -28,7 +28,8 @@ Our final goal is to improve these therapies understanding how variability in th
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=Gene-Ages-Paper" />
 </a>
 
-## Our recent publications 
+## Our recent publications
+- Hurtado, M., Khajavi, L., Essabbar, A., Kammer, M., Xie, T., Coullomb, A., … Passioukov, A. (2024). Transcriptomics profiling of the non-small cell lung cancer microenvironment across disease stages reveals dual immune cell-type behaviors. Frontiers in Immunology, 15. https://doi.org/10.3389/fimmu.2024.1394965
 - Messina, O., Raynal, F., Gurgo, J,. Fiche, J.B., Pancaldi, V., Nollmann, M. (2023). 3D chromatin interactions involving Drosophila insulators are infrequent but preferential and arise before TADs and transcription.
 Nat Commun. 21;14(1):6678. https://doi.org/10.1038/s41467-023-42485-y.
 - Marku M, Pancaldi V (2023) From time-series transcriptomics to gene regulatory networks: A review on inference methods. PLoS Comput Biol 19(8): e1011254. https://doi.org/10.1371/journal.pcbi.1011254
