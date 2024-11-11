@@ -15,18 +15,7 @@ Our final goal is to improve these therapies understanding how variability in th
 
 ## Projects
 
-<a href="https://github.com/VeraPancaldiLab/Agent-Based-Model-of-NLC-in-CLL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=Agent-Based-Model-of-NLC-in-CLL" />
-</a>
-<a href="https://github.com/VeraPancaldiLab/GEMDeCan_deconvolution">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=GEMDeCan_deconvolution" />
-</a>
-<a href="https://github.com/VeraPancaldiLab/LungPredict1_paper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=LungPredict1_paper" />
-</a>
-<a href="https://github.com/VeraPancaldiLab/Gene-Ages-Paper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=Gene-Ages-Paper" />
-</a>
+
 
 ## Our recent publications
 - Hurtado, M., Khajavi, L., Essabbar, A., Kammer, M., Xie, T., Coullomb, A., … Passioukov, A. (2024). Transcriptomics profiling of the non-small cell lung cancer microenvironment across disease stages reveals dual immune cell-type behaviors. Frontiers in Immunology, 15. https://doi.org/10.3389/fimmu.2024.1394965
