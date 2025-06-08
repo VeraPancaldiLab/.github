@@ -30,6 +30,12 @@ Our final goal is to improve these therapies understanding how variability in th
 <a href="https://github.com/VeraPancaldiLab/Gene-Ages-Paper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=Gene-Ages-Paper" />
 </a>
+<a href="https://github.com/VeraPancaldiLab/CLL_GRN_paper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=CLL_GRN_paper" />
+</a>
+<a href="https://github.com/VeraPancaldiLab/multideconv_paper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VeraPancaldiLab&theme=react&repo=multideconv_paper" />
+</a>
 
 
 ## Our recent publications
