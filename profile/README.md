@@ -41,7 +41,7 @@ Our final goal is to improve these therapies understanding how variability in th
 </a>
 
 ## Our recent publications
-- Gobbini, E.*, Duplouye, P.*, Hurtado, M*. et al. Specific dendritic cells spatial organization is associated to ICB Response in Non–Small-Cell Lung Cancer. 2026. doi: 10.64898/2026.05.04.720587
+- Gobbini, E.* , Duplouye, P.*, Hurtado, M *. et al. Specific dendritic cells spatial organization is associated to ICB Response in Non–Small-Cell Lung Cancer. 2026. doi: 10.64898/2026.05.04.720587
 - Hurtado, M., & Pancaldi, V. (2026). A new pipeline for cross-validation fold-aware machine learning prediction of clinical outcomes addresses hidden data-leakage in omics based ‘predictors’. bioRxiv. https://doi.org/10.64898/2026.03.12.711429
 - Marku, M., Chenel, H., Bordenave, J., Hurtado, M., Domagala, M., Raynal, F., Poupot, M., Ysebaert, L., Zinovyev, A., Pancaldi, V. Data-driven network inference and longitudinal transcriptomics unveil dynamic regulation in Chronic Lymphocytic Leukaemia models. npj Systems Biology and Applications (2026). https://doi.org/10.1038/s41540-025-00645-4
 - Alexandre Bertin, Elmar Bucher, Owen Griere, Marcelo Hurtado, Heber L. Rocha, Randy Heiland, Aneequa Sundus, Paul Macklin, Vincent Francois-Lavet, Emmanuel Rachelson, Vera Pancaldi (2025). PhysiGym: bridging the gap between the Gymnasium reinforcement learning application interface and the PhysiCell agent-based model software. bioRxiv 2025.09.18.677030; doi: https://doi.org/10.1101/2025.09.18.677030
