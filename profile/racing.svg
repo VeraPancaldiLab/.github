@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#16A085" rx="24" />
+  <text x="50%" y="40%" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="middle">RaCInG</text>
+  <text x="50%" y="68%" fill="#D1F2EB" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle">R package for cancer immune modeling</text>
+</svg>
