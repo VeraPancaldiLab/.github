@@ -1,14 +1,10 @@
 # Welcome to the Pancaldi Lab!
 
-We are [NetB(IO)²](https://www.crct-inserm.fr/en/netbio2_en/), a bioinformatics and computational biology research group at the [Cancer Research Center of Toulouse](https://www.crct-inserm.fr/en/). 
+We are [NetB(IO)²](https://www.crct-inserm.fr/en/netbio2_en/), a bioinformatics and computational biology research group at the [Cancer Research Center of Toulouse](https://www.crct-inserm.fr/en/) 
 
-**Visit our [Lab Webpage](https://verapancaldilab.github.io/)** to learn more about our research and team.
+We study and simulate the tumor microenvironment to understand the relationship between patients and cancer. We focus on how immune cells, especially innate ones, interact with the tumour, hoping to i[...]
 
-### Our Research
-
-We study and simulate the tumor microenvironment to understand the relationship between patients and cancer. We focus on how immune cells, especially innate ones, interact with the tumour, hoping to improve immunotherapy effectiveness.
-
-Our final goal is to improve these therapies by understanding how variability in the patients, in the tumours, and in their interactions affects their efficacy. We develop and use different computational and experimental tools to address these questions.
+Our final goal is to improve these therapies understanding how variability in the patients, in the tumours, and in their interactions affects their efficacy. We develop and use different computational[...]
 
 ## Tools
 
@@ -45,8 +41,7 @@ Our final goal is to improve these therapies by understanding how variability in
 </a>
 
 ## Our recent publications
-- Bazile C, Bordenave J, Amri S, Raynal F, Ligat L, Farcé M, Coste H, Clerc P, Sandre O, Bousquet C, Pancaldi V, Mornet S, Gigoux V, Poupot M. Precision Targeting of Human M2 Macrophages by Magnetic Nanoparticles Functionalized with an in-House Antibody. Int J Nanomedicine. 2026;21:619574. https://doi.org/10.2147/IJN.S619574
-- Hurtado, M., & Pancaldi, V. (2026). CellTFusion: A transcriptional regulatory network framework for the identification of functional multicellular states from bulk RNA-seq data. bioRxiv. https:/[...]
+- Hurtado, M., & Pancaldi, V. (2026). CellTFusion: A transcriptional regulatory network framework for the identification of functional multicellular states from bulk RNA-seq data. bioRxiv. https://doi[...]
 - Gobbini, E.* , Duplouye, P.*, Hurtado, M *. et al. Specific dendritic cells spatial organization is associated to ICB Response in Non–Small-Cell Lung Cancer. 2026. doi: 10.64898/2026.05.04.720587
 - Hurtado, M., & Pancaldi, V. (2026). A new pipeline for cross-validation fold-aware machine learning prediction of clinical outcomes addresses hidden data-leakage in omics based 'predictors'. bio[...]
 - Marku, M., Chenel, H., Bordenave, J., Hurtado, M., Domagala, M., Raynal, F., Poupot, M., Ysebaert, L., Zinovyev, A., Pancaldi, V. Data-driven network inference and longitudinal transcriptomics unvei[...]
