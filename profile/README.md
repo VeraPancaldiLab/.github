@@ -6,7 +6,7 @@ We study and simulate the tumor microenvironment to understand the relationship 
 
 Our final goal is to improve these therapies understanding how variability in the patients, in the tumours, and in their interactions affects their efficacy. We develop and use different computational approaches which includes the application of multi-omics data (transcriptomics, epigenomics, proteomics and metabolomics), spatial data, mathematical modeling, data simulations and network theory as useful frameworks to represent systems in which relationships such as interactions or similarity between objects are important. We apply network models to study such diverse systems as networks of patient-patient similarity, networks of interactions between different cell types in a tumour, and 3D interactions of genes in the nucleus.
 
-Want to know more about us? Visit our team page at [NetB(IO)²](verapancaldilab.github.io/)
+Want to know more about us? Visit our team page at [NetB(IO)²](https://verapancaldilab.github.io/)
 
 ## Tools
 
